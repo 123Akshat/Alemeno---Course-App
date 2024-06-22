@@ -8,7 +8,6 @@
 dashboard.
 - Proper functionality for searching, and navigating between screens.
 - Proper data fetching and display.
-- Effective use of state management with Redux or MobX.
 - Responsive design that works well on different devices.
 
 # Preview
