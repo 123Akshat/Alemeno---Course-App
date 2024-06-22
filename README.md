@@ -10,6 +10,10 @@ dashboard.
 - Proper data fetching and display.
 - Responsive design that works well on different devices.
 
+#Demo 
+
+https://alemeno-course-app.netlify.app/
+
 # Preview
 
 <img width="959" alt="image" src="https://github.com/123Akshat/Alemeno---Course-App/assets/103346687/df594943-f521-487e-908f-4bcb07d265d7">
