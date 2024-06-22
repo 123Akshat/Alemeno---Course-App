@@ -1,5 +1,6 @@
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/103346687/232325650-144c8bd5-b496-4c5a-9689-9f3fbd084ce3.png)
-# Tourism-website
+# Alemeno - Course App
+![Technology LinkedIn Banner in Black Blue Simple Style](https://github.com/123Akshat/Alemeno---Course-App/assets/103346687/c98bfdea-0689-4db8-a0e7-7a3b1cd71af4)
 
 # About
 
